@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG, "count: "+String.valueOf(count));
         Log.d(TAG, "second count: "+String.valueOf(count));
+
+        Log.d(TAG, "count: "+String.valueOf(count));
     }
 }
